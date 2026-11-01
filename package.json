@@ -4,7 +4,7 @@
   "description": "App sencilla parecida a Instagram",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -c-l"
+    "start": "http-server -c-1 -p 8080"
   },
   "devDependencies": {
     "http-server": "^14.1.1"
